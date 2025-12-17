@@ -14,8 +14,6 @@ Final-year Electronics Engineering student at Universidad de Buenos Aires, inter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbohner&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanbohner&show_icons=true&theme=radical)
-
 ---
 
 ### 🌱 Currently learning
