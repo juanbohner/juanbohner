@@ -12,9 +12,9 @@ Final-year Electronics Engineering student at Universidad de Buenos Aires, inter
 - Data analysis applied to engineering  
 - Hardware–software integration  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbohner&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanbohner&show_icons=true&theme=radical)
 
 ---
 
