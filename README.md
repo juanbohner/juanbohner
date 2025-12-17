@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Juan Ignacio Bohner
 
-<!--
-**juanbohner/juanbohner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electronics Engineering student at Universidad de Buenos Aires, interested in developing systems that integrate **hardware and software**, with a focus on control, simulation, and signal processing. This profile contains academic and personal projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical interests
+- Control systems and dynamic simulation  
+- Electronics and embedded systems  
+- Signal and image processing  
+- Computer vision  
+- Data analysis applied to engineering  
+- Hardware–software integration  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Currently learning
+- Design and implementation of more complex embedded systems  
+- Image processing and computer vision  
+- Containerization with Docker for development environments  
+- Databases and data handling for engineering systems  
+- Good practices in documentation and version control  
+
+---
+
+### 📫 Contact
+- 📧 juanbohner@gmail.com
